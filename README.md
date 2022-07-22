@@ -11,8 +11,11 @@ Map definition (mdefinition) - to start analysis we need some data. This module 
 The idea of this function is to calculate ideal time of the parkour.
 
 Map simplifier - we simplify the map, using only blocks we will use while making the best time.
+
 Block step-on setter - we set the blocks we will be jump on.
+
 Path creator - after setting blocks we want to create path on, using that and map we create path.
+
 Path time approximizer - using path, we calculate time beetween start and stop of the pass.
 
 # Map structure analysis
