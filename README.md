@@ -1,4 +1,4 @@
-# Minecraft Parkour - Map Analitic Tools
+# Minecraft Parkour - Map Analysis Tools
 This project creates a framework for parkour map analysis inside minecraft server.
 
 Projects resides on couple of domains:
